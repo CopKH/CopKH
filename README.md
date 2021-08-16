@@ -4,13 +4,14 @@
 ##### ⚡ My first project is a Login system and TODO LIST.
 ##### 🔭 I’m currently working on freelance backend developer
 
-  <dt></dt>
+  <dt>--------------------</dt>
   <dt>My Programming language</dt>
   <dt>--------------------</dt>
   
   ##### JAVASCRIPT
   ##### PYTHON
-   
+  
+  <dt>--------------------</dt>
   <dt>My Framwork</dt>
   <dt>--------------------</dt>
   
