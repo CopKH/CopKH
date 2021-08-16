@@ -9,7 +9,7 @@
 
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://image.flaticon.com/icons/png/512/1822/1822920.png)
+![alt text](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png)
 
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
