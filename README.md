@@ -20,7 +20,7 @@
 
 
 
-   ![alt text](https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png)
+   ![alt text](https://styles.redditmedia.com/t5_2qh4v/styles/communityIcon_r1rcce3bp1241.png)
    ![alt text](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/python-icon.png)
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
