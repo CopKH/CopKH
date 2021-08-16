@@ -7,16 +7,15 @@
   <dt>--------------------</dt>
   <dt>My Programming language</dt>
   <dt>--------------------</dt>
-  
-  ##### JAVASCRIPT
-  ##### PYTHON
+⋅⋅* JAVASCRIPT
+⋅⋅* PYTHON
   
   <dt>--------------------</dt>
   <dt>My Framwork</dt>
   <dt>--------------------</dt>
   
-  ##### DJANGO
-  ##### NODE JS
+⋅⋅* DJANGO
+⋅⋅* NODE JS
 
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
