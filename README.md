@@ -3,16 +3,10 @@
  📫 I learn about Python  and Javascript as to main programming language. 
  ⚡ My first project is a Login system. 📫
 🔭 I’m currently working on freelance backend developer
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 <dl>
   <dt>My Programming language</dt>
-  
-   <dd>Python \n Javascript </dd>
-
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
