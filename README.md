@@ -3,7 +3,7 @@
  📫 I learn about Python  and Javascript as to main programming language. 
  ⚡ My first project is a Login system. 📫
 🔭 I’m currently working on freelance backend developer
-Inline-style: ![alt text](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png" Logo Title Text 1")
+Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 <dl>
   <dt>My Programming language</dt>
 </dl>
