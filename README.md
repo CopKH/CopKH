@@ -3,11 +3,11 @@
  📫 I learn about Python  and Javascript as to main programming language. 
  ⚡ My first project is a Login system. 📫
 🔭 I’m currently working on freelance backend developer
-Inline-style: ![alt text](https://image.pngaaa.com/282/619282-middle.png"Logo Title Text 1")
+Inline-style: ![alt text](https://image.pngaaa.com/282/619282-middle.png" Logo Title Text 1")
 <dl>
   <dt>My Programming language</dt>
 </dl>
-![alt text](https://image.pngaaa.com/282/619282-middle.png"Logo Title Text 1")
+![alt text](https://image.pngaaa.com/282/619282-middle.png" Logo Title Text 1")
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
