@@ -1,4 +1,5 @@
 ### Hi there 👋
+ 😄Hello, My name's Copter. I'm a newbie Backend Developer. I learn about Python as to main programming language. My first project is a Login system.
 🔭 I’m currently working on freelance backend developer
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
