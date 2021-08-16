@@ -1,8 +1,8 @@
 
 ## 👋 Hello, My name's Copter. I'm a newbie Backend Developer. 
-#####📫 I learn about Python  and Javascript as to main programming language. 
-#####⚡ My first project is a Login system. 📫
-#####🔭 I’m currently working on freelance backend developer
+##### 📫 I learn about Python  and Javascript as to main programming language. 
+##### ⚡ My first project is a Login system. 📫
+##### 🔭 I’m currently working on freelance backend developer
 <dl>
   <dt>My Programming language</dt>
 </dl>
