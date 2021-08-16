@@ -7,8 +7,7 @@ Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src
 <dl>
   <dt>My Programming language</dt>
 </dl>
-
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://image.pngaaa.com/282/619282-middle.png"Logo Title Text 1")
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
