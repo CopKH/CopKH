@@ -6,8 +6,8 @@
 
 <dl>
   <dt>My Programming language</dt>
-   <dd>Python</dd>
-   <dd>Javascript</dd>
+   <dd>Python \n Javascript </dd>
+
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
