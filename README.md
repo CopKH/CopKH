@@ -9,7 +9,7 @@
 
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>)
+![alt text](https://image.flaticon.com/icons/png/512/1822/1822920.png)
 
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
