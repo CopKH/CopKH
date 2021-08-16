@@ -19,6 +19,9 @@
 * NODE JS
 
 
+def foo():
+    if not bar:
+        return True
 
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
