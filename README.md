@@ -7,8 +7,8 @@
   <dt>--------------------</dt>
   <dt>My Programming language</dt>
   <dt>--------------------</dt>
-* JAVASCRIPT
-* PYTHON
+ * JAVASCRIPT
+ * PYTHON
   
   <dt>--------------------</dt>
   <dt>My Framwork</dt>
