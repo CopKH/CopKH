@@ -18,6 +18,10 @@
 * DJANGO
 * NODE JS
 
+
+
+
+
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
