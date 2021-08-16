@@ -7,21 +7,14 @@
   <dt></dt>
   <dt>My Programming language</dt>
   <dt>--------------------</dt>
-  
-
-
-
-   ![alt text](https://cdn.icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png)
-   ![alt text](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/python-icon.png)
+  ##### JAVASCRIPT
+  ##### PYTHON
    
   <dt>My Framwork</dt>
   <dt>--------------------</dt>
-  
+  ##### DJANGO
+  ##### NODE JS
 
-
-
-   ![alt text](https://styles.redditmedia.com/t5_2qh4v/styles/communityIcon_r1rcce3bp1241.png)
-   ![alt text](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/python-icon.png)
 <!--
 **CopKH/CopKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
