@@ -5,25 +5,6 @@ I'm a newbie Backend Developer.
 ##### ⚡ My first project is a [Login system and TODO LIST](https://github.com/CopKH/LoginSystem).
 ##### 🔭 I’m currently working on freelance backend developer
 
-### Programming Languages 🌐
-
-- Know/Using
-
- |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) 
-|---|
-
-- Learning
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-|---|
-
-  
-  <dt>--------------------</dt>
-  <dt>My Framwork</dt>
-  <dt>--------------------</dt>
-  
-* DJANGO
-* NODE JS
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
