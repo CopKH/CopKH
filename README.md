@@ -3,8 +3,6 @@
 I'm a newbie Backend Developer.
 
 ## About me 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
-
 - :earth_americas: I'm from Thailand
 - :video_game: I like to play video games
 ##### 📫 I learn about Python  and Javascript as to main programming language. 
