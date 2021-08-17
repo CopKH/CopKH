@@ -1,5 +1,5 @@
 
-## <h2> Hey there! I'm [Paramet Khampoo-ngern](https://www.linkedin.com/in/paramet-khampoo-ngern-64a890205/). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+## <h2> Hey there! I'm [Paramet KH](https://www.linkedin.com/in/paramet-khampoo-ngern-64a890205/). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> you can called me Copter.</h2>
 I'm a newbie Backend Developer. 
 ##### 📫 I learn about Python  and Javascript as to main programming language. 
 ##### ⚡ My first project is a [Login system and TODO LIST](https://github.com/CopKH/LoginSystem).
