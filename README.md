@@ -1,6 +1,6 @@
 
 ## <h2> Hey there! I'm [Copter](https://www.linkedin.com/in/paramet-khampoo-ngern-64a890205/). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">.</h2>
-I'm a newbie Backend Developer.
+My name's Paramet Khampoo-ngern . I'm a newbie Backend Developer. 
 
 ## About me 
 - :earth_americas: I'm from Thailand
