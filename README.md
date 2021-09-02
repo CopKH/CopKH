@@ -9,7 +9,7 @@ My name's Paramet Khampoo-ngern . I'm a newbie Backend Developer.
 - ⚡ My first project is a [Login system and TODO LIST](https://github.com/CopKH/LoginSystem).
 - 🔭 I’m currently working on freelance backend developer
 
-<h3> 🛠 &nbsp;My Project</h3>
+<h3> &nbsp;My Project</h3>
 - Basic project;
   [Login system and TODO LIST](https://github.com/CopKH/LoginSystem).
   [MINI BANK](https://github.com/CopKH/MINI_BANK).
