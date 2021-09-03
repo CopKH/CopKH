@@ -6,7 +6,7 @@ My name's Paramet Khampoo-ngern . I'm a newbie Backend Developer.
 - :earth_americas: I'm from Thailand
 - :video_game: I like to play video games
 - 📫 I learn about Python  and Javascript as to main programming language. 
-- ⚡ My first project is a [Login system and TODO LIST](https://github.com/CopKH/LoginSystem).
+- ⚡ My first project is a [TODO LIST](https://github.com/CopKH/LoginSystem).
 - 🔭 I’m currently working on freelance backend developer
 
 ## My Projects
