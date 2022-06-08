@@ -7,7 +7,7 @@ My name's Paramet Khampoo-ngern . I'm a newbie Backend Developer.
 - :video_game: I like to play video games
 - 📫 I learn about Python  and Javascript as to main programming language. 
 - ⚡ My first project is a [TODO LIST](https://github.com/CopKH/LoginSystem).
-- 🔭 I’m currently working on freelance backend developer
+- 🔭 I’m currently working on Mobile Devoloper(React Native)!
 
 ## My Projects
 - Basic project [ TODO LIST](https://github.com/CopKH/LoginSystem),  [MINI BANK](https://github.com/CopKH/MINI_BANK) , [PIG GAME](https://github.com/CopKH/PIG_GAME) and [Portfolio](https://github.com/CopKH/instance_portfolio)
