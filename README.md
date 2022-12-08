@@ -1,11 +1,11 @@
 
 ## <h2> Hey there! I'm [Copter](https://www.linkedin.com/in/paramet-khampoo-ngern-64a890205/). <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">.</h2>
-My name's Paramet Khampoo-ngern . I'm a newbie Backend Developer. 
+My name's Paramet Khampoo-ngern . I'm a Mobile Developer
 
 ## About me 
 - :earth_americas: I'm from Thailand
 - :video_game: I like to play video games
-- 📫 I learn about Python  and Javascript as to main programming language. 
+- 📫 I learn about Javascript as to main programming language. 
 - ⚡ My first project is a [TODO LIST](https://github.com/CopKH/LoginSystem).
 - 🔭 I’m currently working on Mobile Devoloper(React Native)!
 
