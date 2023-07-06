@@ -9,10 +9,6 @@ My name's Paramet Khampoo-ngern . I'm a Mobile Developer
 - ⚡ My first project is a [TODO LIST](https://github.com/CopKH/LoginSystem).
 - 🔭 I’m currently working on Mobile Devoloper(React Native and Flutter)!
 
-## My Projects
-- Basic project [ TODO LIST](https://github.com/CopKH/LoginSystem),  [MINI BANK](https://github.com/CopKH/MINI_BANK) , [PIG GAME](https://github.com/CopKH/PIG_GAME) and [Portfolio](https://github.com/CopKH/instance_portfolio)
-  
-  
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
