@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋, I'm Copter</h1>
 <h3 align="center">My name's Paramet Khampoo-ngern. I'm a Mobile Developer</h3>
 
-- 🔭 I’m currently working on [DLT App](https://testflight.apple.com/join/54ieBZ0G) and [CDD Connect]([https://testflight.apple.com/join/54ieBZ0G](https://play.google.com/store/apps/details?id=com.cddconnect))
+- 🔭 I’m currently working on [DLT App](https://testflight.apple.com/join/54ieBZ0G) and [CDD Connect](https://play.google.com/store/apps/details?id=com.cddconnect)
 
 - 🌱 I’m currently learning **Golang and Swift**
 
